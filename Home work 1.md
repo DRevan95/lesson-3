@@ -1,8 +1,10 @@
 # Инструкция по работе в языком Markdown.
 
-[Перейдите по ссылке, чтобы ознакомится с инструкцией] (https://github.com/sandino/Markdown-Cheatsheet)
+[Перейдите по ссылке, чтобы ознакомится с инструкцией](Instruction.md)
 
-Для вставки картинок ![alt-текст](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Текст заголовка логотипа 1")
+![alt-текст](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Текст заголовка логотипа 1") 
+
+![Картинка](pictures/Picture.jpg)
 
 
 
